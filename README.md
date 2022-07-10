@@ -2,7 +2,9 @@
 Código para la resolución de la cinemática inversa de un manipulador tipo serial de 6 grados de libertad mediante el método de Pieper [Piper][Craig, pag. 114].
 Como caso de ejemplo se toma el robot IRB120 de ABB en base al modelo presentado en [Gaudreault].
 
+--------------
 Instrucciones:
+-------------- 
 
     - El archivo CI_IRB120.m sirve para analizar los elementos de la matriz de roto-traslación T de interes.
     
