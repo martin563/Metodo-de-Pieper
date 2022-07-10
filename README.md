@@ -3,6 +3,7 @@ Código para la resolución de la cinemática inversa de un manipulador tipo ser
 Como caso de ejemplo se toma el robot IRB120 de ABB en base al modelo presentado en [Gaudreault].
 
 Instrucciones:
+
     - El archivo CI_IRB120.m sirve para analizar los elementos de la matriz de roto-traslación T de interes.
     
     - El archivo Ejemplo_Pieper.m sirve como ejemplo para el calculo de la cinematica inversa mediante el método de Pieper.
